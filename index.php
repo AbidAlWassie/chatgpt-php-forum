@@ -53,8 +53,7 @@
 
     <button id="create-post-button">Create a new post</button>
 
-    <?php include 'create-post.php';
-    ?>
+    <?php include 'create_post.php'; ?>
 
     <h2>Recent Discussions</h2>
     <section>
